@@ -1,6 +1,6 @@
 # DDI_Codebook_Question_Text_Injector_v1.1
 
-An R script that automates the addition of literal questions and AI powered pre/post question texts classification for datasets being documented in the **Metadata Editor**. This tool significantly reduces manual entry effort — saving **more than 50%** of the time that would otherwise be spent manually entering literal questions.
+An R script that automates the addition of literal questions and AI powered pre/post question texts classification for datasets being documented in the **Metadata Editor**. This tool significantly reduces manual entry effort — saving **more than 50%** of the time that would otherwise be spent manually entering  question texts.
 
 ---
 
